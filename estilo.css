@@ -1,0 +1,49 @@
+@charset 'utf-8';
+* {
+    font-family: arial;
+
+}
+
+
+body{
+    background-image: linear-gradient(
+        rgba(29,29,29,0.7),
+        rgba(29,29,29,0.7)
+
+    ),
+    url(img/gramado.jpg);
+  
+  
+}
+
+main legend{
+    text-align: center;
+}
+
+table img {
+    width: 150px;
+    height: 150px;
+}
+
+.meioc{
+    width: 100px;
+    height: 100px;
+    border-right: 8px solid #fff;
+    border-bottom: 8px solid #ffffff;
+    text-align: center;
+
+}
+
+.baixom{
+    width: 100px;
+    height: 100px;
+    border-right: 8px solid #ffffffff;
+    text-align: center;
+}
+
+.md{
+    width: 100px;
+    height: 100px;
+    border-bottom: 8px solid #ffffff;
+    text-align: center;
+}
